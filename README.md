@@ -9,7 +9,8 @@ Hi, I’m @Yosrahabouria 👋
 
 I am a front-end engineering student, eager to grow and contribute to the tech community!
 
-
+💻 Tech Stack:
+C CSS3 HTML5 JavaScript Python Shell Script Windows Terminal TypeScript Datadog GithubPages Google Cloud  Oracle Vercel Apache Spark AdonisJS Bulma Bootstrap Django jQuery NPM NodeJS React SASS Apache Nginx MySQL SQLite Adobe Lightroom Adobe  Adobe Figma Canva PUPPET Airbnb Babel ESLint  Jira Kubernetes Portfolio Vagrant
 <!---
 Yosrahabouria/Yosrahabouria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
