@@ -9,6 +9,9 @@ Hi, I’m @Yosrahabouria 👋
 
 I am a front-end engineering student, eager to grow and contribute to the tech community!
 
+C C++ CSS3 HTML5 JavaScript Python PHP Ruby Shell Script Windows Terminal TypeScript Datadog GithubPages Google Cloud Heroku Oracle Vercel Apache Spark AdonisJS Bulma Bootstrap Django jQuery NPM NodeJS React SASS Apache Nginx MySQL SQLite Adobe Lightroom Adobe Illustrator Adobe Photoshop Figma Canva Dribbble Gimp Docker AZUREDEVOPS PUPPET Vagrant Airbnb Babel Cisco ESLint Docker Jira Kubernetes Portfolio Vagrant
+
+
 
 
 <!---
