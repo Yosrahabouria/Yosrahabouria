@@ -1,8 +1,8 @@
 Hi, I’m @Yosrahabouria 👋
-<img alt="Twitch Status" src="https://img.shields.io/twitch/status/mrdebfx?logo=Twitch&style=for-the-badge">
-</div>
 
 [![View my ALX Certificate](https://github.com/Yosrahabouria/Certificate_Alx/17-short-specializations-certificate-yosra-habouria.png)](https://intranet.alxswe.com/certificates/3Fc7ZTR9mf)
+[![View my ALX Certificate](https://github.com/Yosrahabouria/Certificate_Alx/blob/main/17-short-specializations-certificate-yosra-habouria.png)](https://intranet.alxswe.com/certificates/3Fc7ZTR9mf)
+
 - 👀 I’m interested in front-end development, UI/UX design, and everything JavaScript!
 - 🌱 I’m currently learning advanced React techniques and exploring modern CSS frameworks.
 - 💞️ I’m looking to collaborate on open-source projects or any exciting front-end development challenges.
