@@ -1,8 +1,12 @@
-<div>
+<div style="text-align: center;">
   <img alt="Twitch Status" src="https://img.shields.io/twitch/status/mrdebfx?logo=Twitch&style=for-the-badge">
 </div>
 
-[![View my ALX Certificate](https://raw.githubusercontent.com/Yosrahabouria/Certificate_Alx/main/17-short-specializations-certificate-yosra-habouria.png)](https://intranet.alxswe.com/certificates/3Fc7ZTR9mf)
+<div style="text-align: center;">
+  <a href="https://intranet.alxswe.com/certificates/3Fc7ZTR9mf">
+    <img alt="View my ALX Certificate" src="https://raw.githubusercontent.com/Yosrahabouria/Certificate_Alx/main/17-short-specializations-certificate-yosra-habouria.png" style="max-width: 100%;">
+  </a>
+</div>
 
 Hi, I’m @Yosrahabouria 👋
 
